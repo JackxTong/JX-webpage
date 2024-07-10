@@ -1,1 +1,3 @@
-Run index.html
+```bash
+open index.html
+```
